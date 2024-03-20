@@ -1,0 +1,1 @@
+const getTotalBalanceByGender = (users, gender) => {};
